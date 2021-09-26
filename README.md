@@ -1,7 +1,5 @@
 # devops_week2
 
-# devops_week2
-
 # install ubuntu with WSL
 #### Enabling WSL in Windows 10
 Before you can install Ubuntu on WSL, WSL has to be enabled in one of the following ways:
