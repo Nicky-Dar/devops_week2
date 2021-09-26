@@ -234,3 +234,25 @@ to run the already built app:
 
 ![image](https://user-images.githubusercontent.com/88620315/134811674-bf8d686d-c7c6-4d77-8886-d839b8c40dfd.png)
 
+# Service Management
+
+**Systemd** is a service manager and init software package specially designed for Linux. systemd is compatible with the traditional sysvinit and BSD rc.d init scripts, but the software is intended to replace the old traditional init way of running Linux. 
+For example:
+>sudo apt install ngix
+
+![image](https://user-images.githubusercontent.com/88620315/134813391-bc6d24fa-98e1-4f64-a7bb-215b51082908.png)
+
+
+# Memory & Storage
+
+**Memory (RAM) Random Access Memory** is temporary storage for running applications. On the Linux operating system, there is a Swap in addition to a temporary memory reserve if the main memory is full. 
+
+To check memory usage, run the following command:
+>sudo apt install htop
+
+>htop
+
+![image](https://user-images.githubusercontent.com/88620315/134814121-e83f0a40-f171-43ef-88ea-01d992075a8c.png)
+
+The result is:
+![image](https://user-images.githubusercontent.com/88620315/134814155-0805e33f-c7a6-44c7-8bbb-132a93a94238.png)
