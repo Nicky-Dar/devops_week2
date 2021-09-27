@@ -144,16 +144,10 @@ Python installation steps, enter the following command:
 ![image](https://user-images.githubusercontent.com/88620315/134803667-e1c899c8-e247-4680-ae69-04dc42ea5a44.png)
 
 3. Python already exists by default. To check the version
-> python3 -v
+> python3 -V
 
-![image](https://user-images.githubusercontent.com/88620315/134803984-0ec9ee75-dd70-4cd0-9bb0-f74863e71632.png)
-.
+![image](https://user-images.githubusercontent.com/88620315/134864165-9dac39a1-49c7-4445-91ff-710e14af1371.png)
 
-.
-
-.
-
-![image](https://user-images.githubusercontent.com/88620315/134804027-5924a201-0acb-43b4-a2ec-2f70a410d770.png)
 
 4. Install the python package manager:
 > sudo apt install python3-pip
@@ -256,3 +250,10 @@ To check memory usage, run the following command:
 
 The result is:
 ![image](https://user-images.githubusercontent.com/88620315/134814155-0805e33f-c7a6-44c7-8bbb-132a93a94238.png)
+
+**Storage** is a digital device that functions to store various kinds of digital data that can be stored for an uncertain period of time depending on the age and maintenance of the Storage device itself.
+
+to view storage usage:
+> df -h
+
+![image](https://user-images.githubusercontent.com/88620315/134863654-ec2a800d-be44-4d62-a83b-896ce21788b1.png)
