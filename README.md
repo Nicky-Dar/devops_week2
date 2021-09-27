@@ -55,7 +55,7 @@ https://ubuntu.com/wsl
 
 2. To install node.js use the following command:
 
-    1. Download the package
+Download the package
 > curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 
 ![image](https://user-images.githubusercontent.com/88620315/134170175-c689fc46-b90e-497a-8602-8e89d5e08336.png)
